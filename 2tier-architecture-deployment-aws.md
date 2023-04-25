@@ -1,5 +1,7 @@
 # 2 tier architecture deployment on aws
 
+![](Diagram.png)
+
 ### Secure copying app folder to EC2 instance
 
 1. After creating and setting up your EC2 on AWS. Open 2 bash windows and ssh into the instance on one of them. Then update, upgrade and install nginx on this instance.
